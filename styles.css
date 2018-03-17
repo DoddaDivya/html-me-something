@@ -1,0 +1,57 @@
+body { 
+    background-color: lightyellow;
+    margin: 25px 25px 25px 25px;
+}
+
+h1 {
+    text-align: center;
+    font-family: fantacy;
+    font-size: 40px;
+    text-decoration: underline;
+    font-weight: bold;
+    color: purple;
+}   
+
+h2 {
+    color: brown;
+    font-family: cursive;
+    font-weight: bold;
+}
+
+h3 {
+    color: brown;
+    font-family: cursive;
+    font-size: 20px;
+    text-decoration: underline;
+}
+
+a {
+    color: green;
+    font-family: cursive;
+    text-decoration: none;
+    font-size:20px;
+}
+
+img {
+    height: 500px;
+    width: 800px;
+    padding: 25px 50px 0px 0px;
+}
+
+p {
+    font-size: 15px;
+    color: darkblue;
+    font-family: sans-serif;
+}
+
+.intro {
+    color: olive;    
+}
+
+#foot {
+    color:maroon;
+}
+
+a:hover {
+    color:red;
+}
